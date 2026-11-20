@@ -1,0 +1,6 @@
+{
+  "name": "Studio.2.O",
+  "description": "Browser-based event audio editing studio to cut, join, overlay, mix, and export tracks for performances and stage programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
